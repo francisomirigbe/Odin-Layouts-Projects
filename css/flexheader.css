@@ -1,0 +1,73 @@
+.header-container{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:0;
+
+}
+
+.left-links{
+    display: flex; 
+   
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: 600;
+    color: tomato;
+    background: white;
+    padding: 4px 12px 4px 12px;
+    margin: 5px;
+    
+
+}
+
+a{
+    background-color: white; 
+    text-decoration: none;
+    padding: 2px;
+    
+}
+
+.nav-body1{
+    list-style-type: none;
+    display: flex;
+    font-size: large;
+    padding: 3px;
+}
+.nav-body2{
+    list-style-type: none;
+    display: flex;
+    font-size: large;
+    padding: 3px;
+
+}
+
+.nav-item1{
+    margin-right: 10px;
+}
+
+.nav-item2{
+    
+    margin-right: 10px;
+    
+}
+
+.nav-item3{
+    
+    margin-right: 10px;
+}
+
+.nav-item4{
+    
+    margin-right: 10px;
+
+}
+
+.nav-item5{
+    
+    margin-right: 10px;
+}
+
+
